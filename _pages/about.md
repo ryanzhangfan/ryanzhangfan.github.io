@@ -12,8 +12,9 @@ redirect_from:
 I am currently a Researcher at Beijing Academy of Artificial Intelligence ([BAAI](https://www.baai.ac.cn/english.html)), where I mainly focus on multimodal foundation models and AIGC. I earned my master's degree at Institute of Software, Chinese Academy of Sciences, under the guidance of [Prof. Feifei Ma](https://lcs.ios.ac.cn/~maff/) and [Prof. Jian Zhang](https://lcs.ios.ac.cn/~zj/).
 
 ## News
+- **[01/2026]** 🎉🎉🎉 [Emu3](https://www.nature.com/articles/s41586-025-10041-x) has been accepted by Nature!
+- **[01/2026]** Our paper [URSA](https://arxiv.org/pdf/2510.24717) has been accepted by ICLR 2026!
 - **[10/2025]** We are thrilled to release [Emu3.5](https://github.com/baaivision/Emu3.5)!
-- **[10/2025]** We introduce [URSA](https://arxiv.org/pdf/2510.24717), our newest visual generation model!
 - **[09/2025]** Our paper [ETT](https://arxiv.org/pdf/2505.10562) has been accepted by NeurIPS 2025!
 
 ## <span id="publication">Selected Publications</span>
