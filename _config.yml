@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fan Zhang"
 title_separator          : "-"
 name                     : &name "Fan Zhang"
-description              : &description "Member of Technical Staff at Token Foundry, Alibaba Group"
+description              : &description "Member of Technical Staff @ Token Foundry, Alibaba Group"
 url                      : https://ryanzhangfan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryanzhangfan/ryanzhangfan.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Fan Zhang"
   avatar           : "profile.jpg"
-  bio              : "Member of Technical Staff at Token Foundry, Alibaba Group"
+  bio              : "Member of Technical Staff @ Token Foundry, Alibaba Group"
   location         : "Beijing"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
