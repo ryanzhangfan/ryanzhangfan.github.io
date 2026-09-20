@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I am currently a Researcher at Beijing Academy of Artificial Intelligence ([BAAI](https://www.baai.ac.cn/english.html)), where I mainly focus on multimodal foundation models and AIGC. I earned my master's degree at Institute of Software, Chinese Academy of Sciences, under the guidance of [Prof. Feifei Ma](https://lcs.ios.ac.cn/~maff/) and [Prof. Jian Zhang](https://lcs.ios.ac.cn/~zj/).
+I am currently a member of technical staff at Token Foundry, Alibaba Group, focusing on generative models and multimodal foundation models. I earned my master's degree at Institute of Software, Chinese Academy of Sciences, under the guidance of [Prof. Feifei Ma](https://lcs.ios.ac.cn/~maff/) and [Prof. Jian Zhang](https://lcs.ios.ac.cn/~zj/).
 
 ## News
 - **[01/2026]** 🎉🎉🎉 [Emu3](https://www.nature.com/articles/s41586-025-10041-x) has been accepted by Nature!
